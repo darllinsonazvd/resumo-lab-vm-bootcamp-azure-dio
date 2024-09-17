@@ -1,0 +1,1 @@
+# resumo-lab-vm-bootcamp-azure-dio
